@@ -144,6 +144,8 @@
 - Найдите в разделе `[Launcher]` строки с `CreatedProjectPaths=`
 - под строками `CreatedProjectPaths=` можно прописать свою **папку с проектами**.  
 
+![](./media/Tutorial/GameUserSettings.png)
+
 ### Пример, как должны выглядеть строки:
 
 ```sh
@@ -166,8 +168,6 @@ CreatedProjectPaths=E:/_Unreal_Projects_Diversion
 CreatedProjectPaths=E:/_Unreal_Projects_Git
 CreatedProjectPaths=E:/_Unreal_Projects_SVN
 ```
-
-![](./media/Tutorial/GameUserSettings.png)
 
 - После этого сохрани файл и запусти **Epic Games Launcher** — все проекты из этих директорий появятся автоматически в списке.
 
