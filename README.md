@@ -125,7 +125,7 @@
 - Потом ввидите путь до файла `GameUserSettings.ini`
 
 ```sh
-%LocalAppData%\EpicGamesLauncher\Saved\Config\Windows
+%LocalAppData%\EpicGamesLauncher\Saved\Config\WindowsEditor
 ```
 
 ![](./media/Tutorial/Windows.png)
